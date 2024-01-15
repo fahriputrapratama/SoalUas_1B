@@ -36,6 +36,6 @@ public class SoalNo3 {
     }
 
     private static int metodeTipe4() {
-        return (int) (Math.random() * 120); // Menghasilkan kecepatan acak antara 0-119 km/jam
+        return (int) (Math.random() * 120);
     }
 }
